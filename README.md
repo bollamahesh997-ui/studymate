@@ -1,0 +1,2 @@
+# studymate
+project for hackathon
